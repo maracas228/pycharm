@@ -1,0 +1,7 @@
+import math
+
+x = 20
+while x <= 115:
+    F = (62 * x**2 + 11 * x - 7) / math.sqrt(2 - math.log(10 * x))
+    print(x, F)
+    x += 9
