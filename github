@@ -1,5 +1,13 @@
 import math
-
+asgksagokasgpkaspg[ask[gk aaasgs 
+s
+gsa
+gsas
+ssagsasaggsagsagasgas
+asg
+ag
+asgasg
+SAASfasAS SASAT
 x = 20
 while x <= 115:
     F = (62 * x**2 + 11 * x - 7) / math.sqrt(2 - math.log(10 * x))
